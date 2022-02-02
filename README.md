@@ -1,3 +1,6 @@
+Animal Adoption Website created with Laravel Framework, originally used using SQL database hosted by Aston University, PhpMyAdmin for database configuration and local ltesting. Three tiered web application to handle an adoption agency for different types of animals.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
